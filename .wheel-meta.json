@@ -1,0 +1,22 @@
+{
+  "wheel_id": 465,
+  "structure": "umbrella",
+  "slug": "retainingwallscanberra-103",
+  "project": "retaining-wall-builders-canberra-checklist-85211b5d9cefe5e0df16",
+  "parent_t1_ref": "retainingwallscanberra-151",
+  "node_role": "feeder",
+  "money_target": "retainingwallscanberra.au",
+  "primary_kw": "retaining wall builders canberra checklist",
+  "intended_url": "https://sitesau.github.io/retainingwallscanberra-103/",
+  "tier": "T2",
+  "writeback_nonce": "c1a2c381b95e1e6f",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-builders-canberra-ad94eb1a3c9a5ed1a61638b4e05/",
+      "anchor": "Retaining Wall Builders Canberra: Site Scope Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
